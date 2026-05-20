@@ -32,7 +32,7 @@ function login() {
         alert("Selamat datang " + found.nama);
 
         window.location.href =
-        "https://storage3.me-qr.com/pdf/d7b0fbf8-264f-48aa-b4a6-c1c92e3b1ca8";
+        "https://storage3.me-qr.com/pdf/7c0190fc-6c60-4fdd-b6fb-83541b528d70.pdf";
     } else {
         alert("User / password salah");
     }
